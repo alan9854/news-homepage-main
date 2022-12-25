@@ -129,9 +129,6 @@
   .menu_burger {
     display: none;
   }
-  .menu {
-    justify-content: space-between;
-  }
 }
 a {
   font-size: 15px;
@@ -201,8 +198,6 @@ a {
   width: 8rem;
   background-color: hsl(5deg, 85%, 63%);
   border-color: white;
-}
-.mid_button p {
   color: white;
 }
 
@@ -217,7 +212,7 @@ a {
 }
 .bottom_grid a {
   color: hsl(233deg, 8%, 79%);
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .bottom_grid p {
   color: hsl(233deg, 8%, 79%);
